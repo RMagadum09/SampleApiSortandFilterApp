@@ -9,4 +9,4 @@ Features
 API Endpoints
 1- GET /beers – Retrieve all beers
 2- GET /beers?minRating=4 – Filter beers by rating
-3- GET /beers/sort?by=price – Sort beers by price
+3- GET /beers?sort=price – Sort beers by price
